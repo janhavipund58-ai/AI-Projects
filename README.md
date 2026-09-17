@@ -280,3 +280,12 @@ GitHub
 📜 Purpose
 
 This project is developed as an academic mini project to demonstrate practical implementation of DBMS, web development, and AI/ML concepts in an IT project management scenario.
+
+🌐 Live Project
+
+Live Website:
+https://itresourceallocation.infinityfreeapp.com/
+
+📜 Purpose
+
+This project is developed as an academic mini project to demonstrate practical implementation of DBMS, web development, and AI/ML concepts in an IT project management scenario.
