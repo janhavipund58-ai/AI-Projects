@@ -1,0 +1,16 @@
+resource_id,resource_name,project_id,project_name,experience,proficiency,required_level,availability_status,match,Prediction,Match_Result
+1,Rahul Sharma,1,AI Chatbot,3.5,8,8,Available,1,1,Good Match
+2,Priya Patil,1,AI Chatbot,4.0,9,8,Busy,0,0,Not Recommended
+5,Neha Kulkarni,1,AI Chatbot,4.5,9,8,Available,1,1,Good Match
+3,Amit Joshi,1,AI Chatbot,5.0,7,7,Busy,0,0,Not Recommended
+4,Sneha Deshmukh,1,AI Chatbot,3.0,8,7,Available,1,1,Good Match
+4,Sneha Deshmukh,2,E-Commerce Website,3.0,9,8,Available,1,1,Good Match
+1,Rahul Sharma,2,E-Commerce Website,3.5,9,7,Available,1,1,Good Match
+2,Priya Patil,2,E-Commerce Website,4.0,8,7,Busy,0,0,Not Recommended
+3,Amit Joshi,2,E-Commerce Website,5.0,7,7,Busy,0,0,Not Recommended
+5,Neha Kulkarni,2,E-Commerce Website,4.5,8,7,Available,1,1,Good Match
+3,Amit Joshi,3,Cloud Migration,5.0,9,8,Busy,0,0,Not Recommended
+1,Rahul Sharma,3,Cloud Migration,3.5,9,6,Available,1,1,Good Match
+2,Priya Patil,3,Cloud Migration,4.0,8,6,Busy,0,0,Not Recommended
+4,Sneha Deshmukh,3,Cloud Migration,3.0,8,6,Available,1,1,Good Match
+5,Neha Kulkarni,3,Cloud Migration,4.5,8,6,Available,1,1,Good Match

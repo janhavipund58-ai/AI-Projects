@@ -1,0 +1,16 @@
+resource_id,resource_name,designation,experience,availability_status,skill_name,proficiency
+1,Rahul Sharma,Software Developer,3.5,Available,Python,8
+1,Rahul Sharma,Software Developer,3.5,Available,SQL,9
+1,Rahul Sharma,Software Developer,3.5,Available,PHP,8
+2,Priya Patil,Data Scientist,4.0,Busy,Python,9
+2,Priya Patil,Data Scientist,4.0,Busy,SQL,8
+2,Priya Patil,Data Scientist,4.0,Busy,Machine Learning,10
+3,Amit Joshi,Cloud Engineer,5.0,Busy,SQL,7
+3,Amit Joshi,Cloud Engineer,5.0,Busy,AWS,9
+3,Amit Joshi,Cloud Engineer,5.0,Busy,Cloud Computing,10
+4,Sneha Deshmukh,Full Stack Developer,3.0,Available,SQL,8
+4,Sneha Deshmukh,Full Stack Developer,3.0,Available,React,9
+4,Sneha Deshmukh,Full Stack Developer,3.0,Available,PHP,9
+5,Neha Kulkarni,ML Engineer,4.5,Available,Python,9
+5,Neha Kulkarni,ML Engineer,4.5,Available,SQL,8
+5,Neha Kulkarni,ML Engineer,4.5,Available,Machine Learning,10
