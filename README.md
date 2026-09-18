@@ -284,7 +284,7 @@ This project is developed as an academic mini project to demonstrate practical i
 🌐 Live Project
 
 Live Website:
-https://itresourceallocation.infinityfreeapp.com/
+https://itresourceallocation.great-site.net/
 
 📜 Purpose
 
